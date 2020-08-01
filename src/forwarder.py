@@ -6,7 +6,7 @@ s_ip = "255.255.255.255"
 
 # Destination
 d_ip = "3.21.114.123"
-d_port = 5001
+d_port = 50202
 
 print("UDP target IP:", d_ip)
 print("UDP target port:", d_port)
